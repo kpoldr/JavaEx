@@ -739,5 +739,5 @@ Ajaliimidi tõttu on asju mida saaks paremini teha.
 * Mitme SQL-i lause üheks kokkupanemine, et vähendada päringuid
 * Mõnes kohas funktsioonid liiga pikad
 
-Backendi oleks võinud ka ülesse ehitada JPA-ga, mis oleks lihtsustanud selle backendi ehitamist.
+Backendi oleks võinud ka ülesse ehitada JPA-ga, mis oleks lihtsustanud backendi ehitamist.
 
